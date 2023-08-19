@@ -1,2 +1,2 @@
-# MATHEMATICAL MODELING OF PIPELINE TRANSPORTATION OF OIL
+# Mathematical modeling of pipeline transportation of oil
 
